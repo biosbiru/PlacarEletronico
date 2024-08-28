@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\REPOSITORIOS\\PARTICULAR\\PlacarEletronico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ABFA54-DBA3-4F90-8F66-2AF39B364225}|PlacarEletronico\\PlacarEletronico.csproj|f:\\repositorios\\particular\\placareletronico\\placareletronico\\mainpannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8ABFA54-DBA3-4F90-8F66-2AF39B364225}|PlacarEletronico\\PlacarEletronico.csproj|solutionrelative:placareletronico\\mainpannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ABFA54-DBA3-4F90-8F66-2AF39B364225}|PlacarEletronico\\PlacarEletronico.csproj|f:\\repositorios\\particular\\placareletronico\\placareletronico\\mainpannel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8ABFA54-DBA3-4F90-8F66-2AF39B364225}|PlacarEletronico\\PlacarEletronico.csproj|solutionrelative:placareletronico\\mainpannel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ABFA54-DBA3-4F90-8F66-2AF39B364225}|PlacarEletronico\\PlacarEletronico.csproj|f:\\repositorios\\particular\\placareletronico\\placareletronico\\mainpannel.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F8ABFA54-DBA3-4F90-8F66-2AF39B364225}|PlacarEletronico\\PlacarEletronico.csproj|solutionrelative:placareletronico\\mainpannel.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPannel.cs [Design]",
+              "DocumentMoniker": "F:\\REPOSITORIOS\\PARTICULAR\\PlacarEletronico\\PlacarEletronico\\MainPannel.cs",
+              "RelativeDocumentMoniker": "PlacarEletronico\\MainPannel.cs",
+              "ToolTip": "F:\\REPOSITORIOS\\PARTICULAR\\PlacarEletronico\\PlacarEletronico\\MainPannel.cs [Design]",
+              "RelativeToolTip": "PlacarEletronico\\MainPannel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:26:50.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPannel.resx",
+              "DocumentMoniker": "F:\\REPOSITORIOS\\PARTICULAR\\PlacarEletronico\\PlacarEletronico\\MainPannel.resx",
+              "RelativeDocumentMoniker": "PlacarEletronico\\MainPannel.resx",
+              "ToolTip": "F:\\REPOSITORIOS\\PARTICULAR\\PlacarEletronico\\PlacarEletronico\\MainPannel.resx",
+              "RelativeToolTip": "PlacarEletronico\\MainPannel.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-28T15:26:47.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPannel.Designer.cs",
+              "DocumentMoniker": "F:\\REPOSITORIOS\\PARTICULAR\\PlacarEletronico\\PlacarEletronico\\MainPannel.Designer.cs",
+              "RelativeDocumentMoniker": "PlacarEletronico\\MainPannel.Designer.cs",
+              "ToolTip": "F:\\REPOSITORIOS\\PARTICULAR\\PlacarEletronico\\PlacarEletronico\\MainPannel.Designer.cs",
+              "RelativeToolTip": "PlacarEletronico\\MainPannel.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:26:45.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

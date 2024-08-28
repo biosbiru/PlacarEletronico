@@ -1,0 +1,16 @@
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\bin\Debug\net8.0-windows\PlacarEletronico.exe
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\bin\Debug\net8.0-windows\PlacarEletronico.deps.json
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\bin\Debug\net8.0-windows\PlacarEletronico.runtimeconfig.json
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\bin\Debug\net8.0-windows\PlacarEletronico.dll
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\bin\Debug\net8.0-windows\PlacarEletronico.pdb
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.Form1.resources
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.csproj.GenerateResource.cache
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.GeneratedMSBuildEditorConfig.editorconfig
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.AssemblyInfoInputs.cache
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.AssemblyInfo.cs
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.csproj.CoreCompileInputs.cache
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.dll
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\refint\PlacarEletronico.dll
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.pdb
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\PlacarEletronico.genruntimeconfig.cache
+F:\REPOSITORIOS\PARTICULAR\PlacarEletronico\PlacarEletronico\obj\Debug\net8.0-windows\ref\PlacarEletronico.dll
